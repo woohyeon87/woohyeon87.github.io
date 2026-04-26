@@ -2,6 +2,8 @@
 layout: post
 title: "2026년 04월 26일 증시 브리핑 & ETF 추천"
 date: 2026-04-26
+categories: [Investment, Market]
+tags: [stock, briefing]
 ---
 
 [US] 미국 증시 주요 이슈 TOP 5
